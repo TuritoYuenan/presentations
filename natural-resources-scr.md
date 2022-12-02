@@ -1,3 +1,11 @@
+Thuyết trình: Sử dụng và bảo vệ tài nguyên thiên nhiên
+
+Thành viên:
+- Hoàng Minh Khang
+- Nguyễn Nhật Minh
+- Nguyễn Tạ Minh Triết
+- Nguyễn Phạm Huỳnh Đạt
+
 # 1. Sử dụng và bảo vệ Tài nguyên sinh vật:
 ## a. Tài nguyên rừng
 ### * Hiện trạng rừng
